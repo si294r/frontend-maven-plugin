@@ -544,6 +544,9 @@ For example, in a project using npm and gulp, if npm is skipped, gulp must also 
 
 Tools and property to enable skipping
 
+* install-node-and-npm `-Dskip.installnodenpm`
+* install-node-and-pnpm `-Dskip.installnodepnpm`
+* install-node-and-yarn `-Dskip.installyarn`
 * npm `-Dskip.npm`
 * yarn `-Dskip.yarn`
 * bower `-Dskip.bower`
